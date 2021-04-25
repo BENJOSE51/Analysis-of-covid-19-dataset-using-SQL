@@ -1,1 +1,1 @@
-# Abalysis-of-covid-19-dataset-using-SQL
+# Analysis-of-covid-19-dataset-using-SQL
